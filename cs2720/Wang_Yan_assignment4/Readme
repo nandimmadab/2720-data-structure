@@ -1,0 +1,19 @@
+# Assignment4
+
+Kai Wang (811-995-236)
+Zhenyu Yan(810-670-1500)
+
+## Instrucitons
+
+To clean my code (i.e., remove any compiled files), type: 
+
+$ make clean
+
+To compile my code, type:
+
+$ make
+
+To run my code (after compiling it), type:
+
+$ ./main
+

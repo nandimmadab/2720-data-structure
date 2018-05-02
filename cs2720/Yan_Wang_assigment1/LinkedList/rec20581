@@ -1,0 +1,16 @@
+Yan_Wang_assigment1:
+total 76
+-rw-r--r--. 1 ugrad    20 Sep 29 02:01 input.txt
+-rw-r--r--. 1 ugrad   841 Sep 29 12:44 ItemType.cpp
+-rw-r--r--. 1 ugrad   316 Sep 25 13:53 ItemType.h
+-rw-r--r--. 1 ugrad  3384 Sep 29 13:26 ItemType.o
+-rw-r--r--. 1 ugrad  3979 Sep 29 13:06 LinkedList.cpp
+-rw-r--r--. 1 ugrad   589 Sep 28 15:59 LinkedList.h
+-rw-r--r--. 1 ugrad  7408 Sep 29 13:26 LinkedList.o
+-rwxr-xr-x. 1 ugrad 18929 Sep 29 13:26 main
+-rw-r--r--. 1 ugrad  2651 Sep 29 13:26 main.cpp
+-rw-r--r--. 1 ugrad 10680 Sep 29 13:26 main.o
+-rw-r--r--. 1 ugrad   446 Sep 29 02:26 Makefile
+-rw-r--r--. 1 ugrad   290 Sep 29 13:10 README.md
+-rw-r--r--. 1 ugrad     0 Sep 29 13:27 rec20581
+/home/ugrads/zhenyu/cs2720/Yan_Wang_assigment1:/home/work/cs2720

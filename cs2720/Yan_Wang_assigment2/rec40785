@@ -1,0 +1,36 @@
+Yan_Wang_assigment2/:
+total 8
+drwxr-xr-x. 2 ugrad 4096 Oct 23 01:41 CircularLinkedList
+drwxr-xr-x. 2 ugrad 4096 Oct 23 13:24 DoubleLinkedList
+-rw-r--r--. 1 ugrad    0 Oct 23 13:26 rec40785
+
+Yan_Wang_assigment2/CircularLinkedList:
+total 76
+-rw-r--r--. 1 ugrad  3267 Oct 23 01:41 CircularLinkedList.cpp
+-rw-r--r--. 1 ugrad   548 Oct 17 22:45 CircularLinkedList.h
+-rw-r--r--. 1 ugrad  6568 Oct 23 01:41 CircularLinkedList.o
+-rw-r--r--. 1 ugrad    19 Oct 21 00:46 input.txt
+-rw-r--r--. 1 ugrad   511 Oct 17 21:53 ItemType.cpp
+-rw-r--r--. 1 ugrad   225 Oct 17 21:52 ItemType.h
+-rw-r--r--. 1 ugrad  3208 Oct 23 01:41 ItemType.o
+-rwxr-xr-x. 1 ugrad 17614 Oct 23 01:41 main
+-rw-r--r--. 1 ugrad  2091 Oct 21 01:55 main.cpp
+-rw-r--r--. 1 ugrad  9288 Oct 21 02:43 main.o
+-rw-r--r--. 1 ugrad   510 Oct 17 22:59 Makefile
+-rw-r--r--. 1 ugrad   290 Oct 21 01:56 README.md
+
+Yan_Wang_assigment2/DoubleLinkedList:
+total 76
+-rw-r--r--. 1 ugrad  3800 Oct 23 01:50 DoubleLinkedList.cpp
+-rw-r--r--. 1 ugrad   581 Oct 21 02:11 DoubleLinkedList.h
+-rw-r--r--. 1 ugrad  7392 Oct 23 01:50 DoubleLinkedList.o
+-rw-r--r--. 1 ugrad    20 Oct 21 02:02 input.txt
+-rw-r--r--. 1 ugrad   841 Oct 21 02:02 ItemType.cpp
+-rw-r--r--. 1 ugrad   316 Oct 21 02:02 ItemType.h
+-rw-r--r--. 1 ugrad  3384 Oct 23 01:50 ItemType.o
+-rwxr-xr-x. 1 ugrad 18481 Oct 23 01:50 main
+-rw-r--r--. 1 ugrad  2240 Oct 21 02:15 main.cpp
+-rw-r--r--. 1 ugrad  9648 Oct 21 02:15 main.o
+-rw-r--r--. 1 ugrad   494 Oct 21 02:14 Makefile
+-rw-r--r--. 1 ugrad   289 Oct 23 13:24 README.md
+/home/ugrads/zhenyu/cs2720/Yan_Wang_assigment2/:/home/work/cs2720
