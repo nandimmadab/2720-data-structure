@@ -109,8 +109,8 @@ void BinaryTree::DeleteNode(TreeNode*& tree){
 void BinaryTree:: getPredecessor(TreeNode* tree, ItemType& data){
   while(tree->right != nullptr){
     tree = tree->right;
-    data = tree->info;
   }
+    tree = tree->info;
 }
 
 void BinaryTree::preOrder()const{
